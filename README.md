@@ -1,4 +1,3 @@
-# internshala1
 # Blood Bank
 A simple blood bank project. 
 
